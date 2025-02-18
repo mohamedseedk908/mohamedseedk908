@@ -1,3 +1,15 @@
+<h1 align="center">Hi 👋, I'm Mohamed Seedk</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software++Engineer+%3A)"></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software++Engineer+%3A)"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Flutter+and+BackEnd+Developer"></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Flutter+and+BackEnd+Developer"></a>
+</p>
+
+<br>
 - 👋 Hi, I’m @mohamedseedk908
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -6,16 +18,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <br>
-
-## 🐱My Github stats:
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MOHAMED&show_icons=true&locale=en" alt="SEDYK" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MOHAMED&" alt="MOHAMED" /></p>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SA33ED&show_icons=true&locale=en&layout=compact" alt="SA33ED" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SA33ED&show_icons=true&locale=en" alt="SA33ED" /></p>
 
 <!---
 mohamedseedk908/mohamedseedk908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
