@@ -2,6 +2,38 @@
 <p align="center">
   <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Flutter+and+BackEnd+Developer"></a>
 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamedseedk/">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
+     </a><span>&nbsp;</span>
+  <a href="mohamedseedk908@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+    </a><span>&nbsp;</span>
+  <a href="https://github.com/mohamedseedk908">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
+</p>
+<h3 align="center">A software engineer trying to teach himself how to build applications, and he has a small channel on YouTube. I will say that by creating Arabic content on it</h3>
+
+<br>
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Programming Languages
+<p>
+  <a>Dart</a>
+  <br>
+  <a>
+    php
+  </a>
+</p>
+<br>
+<p>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Frameworks and Libraries
+  <br>
+<a>
+  Flutter 
+</a>
+  
+</p>
+<br>
 
 <!---
 mohamedseedk908/mohamedseedk908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
