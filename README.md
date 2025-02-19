@@ -13,27 +13,31 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
 </p>
 <h3 align="center">A software engineer trying to teach himself how to build applications, and he has a small channel on YouTube. I will say that by creating Arabic content on it</h3>
-
 <br>
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Programming Languages
+    <h1 align="center"> <a><img src="https://github.com/user-attachments/assets/fec3a948-2d7c-4d73-8c30-213baf31ea80" width="3.5%"/></a>  ## Programming Languages </h1>
 <p>
-  <a>Dart</a>
+  <a> <img src="https://img.icons8.com/color/48/000000/dart.png" width="5.5%"/> </a>
   <br>
   <a>
-    php
+    <img src="https://img.icons8.com/color/48/000000/php.png" width="5.5%"/>
+  </a>
+  <br>
+  <a>
+<img src="https://img.icons8.com/color/48/000000/mysql.png" width="5.5%"/>
   </a>
 </p>
 <br>
 <p>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Frameworks and Libraries
+   <h1 align="center"> <a><img src=" https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="3.5%"/></a>  ## Frameworks and Libraries </h1>
   <br>
 <a>
-  Flutter 
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" width="5.5%"/> 
 </a>
-  
+    <br>
+<a>
+  <img src="https://img.icons8.com/fluency/48/000000/laravel.png"  width="5.5%"/>
+</a>
 </p>
-<br>
 
 <!---
 mohamedseedk908/mohamedseedk908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
