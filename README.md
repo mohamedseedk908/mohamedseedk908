@@ -33,7 +33,6 @@
 <a>
   <img src="https://img.icons8.com/color/48/000000/flutter.png" width="5.5%"/> 
 </a>
-    <br>
 <a>
   <img src="https://img.icons8.com/fluency/48/000000/laravel.png"  width="5.5%"/>
 </a>
