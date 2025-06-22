@@ -10,12 +10,10 @@
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
 </p>
-![photo_2025-05-03_10-15-46](https://github.com/user-attachments/assets/33032add-795a-4f96-b500-4bfe60669686)
 
 <p align="center">
-  <img src="https://github.com/mohamedseedk908/mohamedseedk908/blob/main/photo_2025-05-03_10-15-46.jpg?raw=true" width="150" style="border-radius: 50%;" />
+  <img src="https://github.com/user-attachments/assets/33032add-795a-4f96-b500-4bfe60669686" width="150" height="150" style="border-radius: 50%; object-fit: cover;" />
 </p>
-
 ---
 
 ### 👨‍💻 About Me
